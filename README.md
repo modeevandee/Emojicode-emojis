@@ -28,6 +28,8 @@ Emoji  | Description
 ------------- | -------------
 🔤This is a string.🔤  | include strings in your code by surrounding the characters by a pair of 🔤
 🔤This is a string.🔤 ➡️ aString  | Declaration of a string
+🧲  | Interpolation in String Literals
+🔤 The value of variable varA is 🧲varA🧲 and method ⚱️ returned 🧲⚱️a❗️🧲.🔤  | Interpolation in String Literals
 
 # Escapes
 Emoji  | Output
@@ -39,5 +41,6 @@ Emoji  | Output
 ❌t  | Tab (U+09)
 ❌r  | Carriage return (U+0D)
 ❌e  | Escape (U+1B)
+
 All other combinations of a ❌ and another character lead to a compiler error.
 
