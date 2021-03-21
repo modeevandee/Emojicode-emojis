@@ -50,4 +50,4 @@ Emoji  | Output
 ------------- | -------------
 🍿 14 67 2434 🍆  | List literal with the values 14, 67, 2434
  list type 🍨  | default type of list literal
-🍿<br>&nbsp;&nbsp;&nbsp;🔤Aaron Copland🔤 ➡️ 🔤Brooklyn🔤<br>&nbsp;&nbsp;&nbsp;🔤Michael Jackson🔤 ➡️ 🔤Gary🔤<br>&nbsp;&nbsp;&nbsp;🔤Falco🔤 ➡️ 🔤Vienna🔤<br>🍆  | In a dictionary literal, keys are associated with a value. This example shows a dictionary literal that associates artists with their birthplaces.
+🍿<br>&nbsp;&nbsp;&nbsp;🔤Aaron Copland🔤 ➡️ 🔤Brooklyn🔤<br>&nbsp;&nbsp;&nbsp;🔤Michael Jackson🔤 ➡️ 🔤Gary🔤<br>&nbsp;&nbsp;&nbsp;🔤Falco🔤 ➡️ 🔤Vienna🔤<br>🍆  | In a dictionary literal, keys are associated with a value. <br>This example shows a dictionary literal that associates artists with their birthplaces.
