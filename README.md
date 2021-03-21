@@ -26,6 +26,7 @@ Emoji  | Description
 # Strings
 Emoji  | Description
 ------------- | -------------
+🔡 type  | Strings are textual data that is represented by this type
 🔤This is a string.🔤  | include strings in your code by surrounding the characters by a pair of 🔤
 🔤This is a string.🔤 ➡️ aString  | Declaration of a string
 🧲  | Interpolation in String Literals
@@ -44,3 +45,13 @@ Emoji  | Output
 
 All other combinations of a ❌ and another character lead to a compiler error.
 
+# Collections
+Emoji  | Output
+------------- | -------------
+🍿 14 67 2434 🍆  | List literal with the values 14, 67, 2434
+ list type 🍨  | default type of list literal
+{🍿
+  🔤Aaron Copland🔤 ➡️ 🔤Brooklyn🔤
+  🔤Michael Jackson🔤 ➡️ 🔤Gary🔤
+  🔤Falco🔤 ➡️ 🔤Vienna🔤
+🍆}  | In a dictionary literal, keys are associated with a value
