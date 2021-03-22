@@ -50,4 +50,13 @@ Emoji  | Output
 ------------- | -------------
 🍿 14 67 2434 🍆  | List literal with the values 14, 67, 2434
  list type 🍨  | default type of list literal
-🍿<br>&nbsp;&nbsp;&nbsp;🔤Aaron Copland🔤 ➡️ 🔤Brooklyn🔤<br>&nbsp;&nbsp;&nbsp;🔤Michael Jackson🔤 ➡️ 🔤Gary🔤<br>&nbsp;&nbsp;&nbsp;🔤Falco🔤 ➡️ 🔤Vienna🔤<br>🍆  | In a dictionary literal, keys are associated with a value. <br>This example shows a dictionary literal that associates artists with their birthplaces.
+🍿<br>&nbsp;&nbsp;&nbsp;🔤Aaron Copland🔤 ➡️ 🔤Brooklyn🔤<br>&nbsp;&nbsp;&nbsp;🔤Michael Jackson🔤 ➡️ 🔤Gary🔤<br>&nbsp;&nbsp;&nbsp;🔤Falco🔤 ➡️ 🔤Vienna🔤<br>🍆  | In a dictionary literal, keys are associated with a value. <br>This example shows a dictionary literal that <br>associates artists with their birthplaces.
+🍯 | type, a simple hash-table, storing key-value pairs
+
+# Variables and Assignment
+The variable name can consist of any sequence of characters but may not contain spaces or emojis and may not begin with a number. 
+Emoji  | Output
+------------- | -------------
+Constant variables  | &nbsp;&nbsp;&nbsp;31 ➡️ daysInDecember<br><br>&nbsp;&nbsp;&nbsp;🔤Earth🔤 ➡️ thirdPlanet
+❌🔤  | 🔤
+❌🔤  | 🔤
