@@ -60,5 +60,6 @@ Emoji  | Output
 Constant variables  | &nbsp;&nbsp;&nbsp;31 ➡️ daysInDecember<br>&nbsp;&nbsp;&nbsp;🔤Earth🔤 ➡️ thirdPlanet
 Mutable Variables  | &nbsp;&nbsp;&nbsp;5300 ➡️ 🖍🆕 money<br>&nbsp;&nbsp;&nbsp;🖍🆕 catName 🔡
 Assigning Values to variables  | &nbsp;&nbsp;&nbsp;5300 ➡️ 🖍 money<br>&nbsp;&nbsp;&nbsp;🔤Kitty🔤 ➡️ 🖍 catName
+(everything between a 🍇 and 🍉)  | defines a separate scope.
 ❌🔤  | 🔤
 ❌🔤  | 🔤
