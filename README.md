@@ -1,4 +1,8 @@
 # Emojicode Program
+Compile using:
+emojicodec file.emojic
+Run using:
+./file
 Notes: 
 <br>https://www.youtube.com/watch?v=gk6NL1pZi1M
 <br>https://www.emojicode.org/docs/reference/variables.html
