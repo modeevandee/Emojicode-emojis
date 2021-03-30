@@ -84,7 +84,17 @@ Emoji  | Output
 🎍🐌 🎍🏎 Branch Speed  | (IDK) https://www.emojicode.org/docs/reference/controlflow.html
 
 # Classes and Value Types
+reference: https://www.emojicode.org/docs/reference/classes-valuetypes.html
 Emoji  | Output
 ------------- | -------------
-❌❌  | ❌
+Defining a Class  | 🐇 👩‍💼 🍇<br><br>🍉
+declare a subclass of our 👩‍💼 class  | 🐇 👩‍🚀 👩‍💼 🍇<br><br>🍉
+Defining a Value Type. <br>Value types cannot have a supertype.  | 🕊 💳 🍇<br><br>🍉
+Instance Variable for Value type  | 🕊 💳 🍇<br>&nbsp;&nbsp;&nbsp;🖍🆕 number 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 expiration_date 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 security_code 🔡<br>🍉
+Instance Variable for Classes  | 🐇 👩‍💼 🍇<br>&nbsp;&nbsp;&nbsp;🖍🆕 firstname 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 lastname 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 creditcard 💳<br>🍉<br><br>🐇 👩‍🚀 👩‍💼 🍇<br>&nbsp;&nbsp;&nbsp;🖍🆕 days_in_space 🔢<br>🍉
+Default Initialization Value<br>You can also specify a value to which an <br>instance variable will be initialized:  | 🐇 👩‍💼 🍇<br>&nbsp;&nbsp;&nbsp;🖍🆕 firstname 🔡 ⬅️ 🔤Susan🔤<br>&nbsp;&nbsp;&nbsp;🖍🆕 lastname 🔡 ⬅️ 🔤Rodgers🔤<br>&nbsp;&nbsp;&nbsp;🖍🆕 creditcard 💳 ⬅️ 🆕💳 🔤48829284848291🔤 🔤12/22🔤 🔤513🔤❗️<br>🍉
+access-level  | 🔓 | 🔒 | 🔐
+INIT | 🐇 👩‍💼 🍇<br>&nbsp;&nbsp;&nbsp;🖍🆕 firstname 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 lastname 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 creditcard 💳<br><br>&nbsp;&nbsp;&nbsp;🆕 🍼 firstname 🔡 🍼 lastname 🔡 🍼 creditcard 💳 🍇🍉<br>🍉
 ❌🔤  | 🔤
+❌🔤  | 🔤
+
