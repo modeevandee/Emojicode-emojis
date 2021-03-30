@@ -97,5 +97,13 @@ access-level  | 🔓 or 🔒 or 🔐
 INIT | 🐇 👩‍💼 🍇<br>&nbsp;&nbsp;&nbsp;🖍🆕 firstname 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 lastname 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 creditcard 💳<br><br>&nbsp;&nbsp;&nbsp;🆕 🍼 firstname 🔡 🍼 lastname 🔡 🍼 creditcard 💳 🍇🍉<br>🍉
 INIT for 👩‍🚀<br>Let us take a closer look at ⤴️ :<br> The first thing it expects is the name of the initializer<br> of the superclass you wish to call. | 🐇 👩‍🚀 👩‍💼 🍇<br>&nbsp;&nbsp;&nbsp;🖍🆕 days_in_space 🔢<br><br>&nbsp;&nbsp;&nbsp;🆕 🍼 days_in_space 🔢 firstname 🔡 lastname 🔡 creditcard 💳 🍇<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⤴️🆕 firstname lastname creditcard❗️<br>&nbsp;&nbsp;&nbsp;🍉<br>🍉
 Instantiate classes using  | 🆕💳 🔤48829284848291🔤 🔤12/22🔤 🔤513🔤❗️ ➡️ credit_card <br>Directly after 🆕 comes 💳, the name of the type we want to instantiate.<br>🆕👩‍💼 🔤Mickey🔤 🔤Mouse🔤 credit_card❗️ ➡️ customer_mouse<br>🆕👩‍🚀 3216 🔤Jean-Luc🔤 🔤Picard🔤 credit_card❗️ ➡️ astronaut_picard
-Initializer with pre-init attributes  | 🐇 👩‍💼 🍇<br>&nbsp;&nbsp;&nbsp;🖍🆕 firstname 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 lastname 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 creditcard 💳<br><br>&nbsp;&nbsp;&nbsp;🆕 🍼 firstname 🔡 🍼 lastname 🔡 🍼 creditcard 💳 🍇🍉<br><br>&nbsp;&nbsp;&nbsp;🆕 ▶️🧜‍♀️ 🍼 firstname 🔡 🍼 creditcard 💳 🍇<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔤Mermaid🔤 ➡️ 🖍lastname<br>&nbsp;&nbsp;&nbsp;🍉<br>🍉<br>We can use the 🧜‍♀️ initializer like this:<br>🆕👩‍💼▶️🧜‍♀️ 🔤Ariel🔤 credit_card❗️ ➡️ ariel
+Initializer with pre-init attributes  | 🐇 👩‍💼 🍇<br>&nbsp;&nbsp;&nbsp;🖍🆕 firstname 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 lastname 🔡<br>&nbsp;&nbsp;&nbsp;🖍🆕 creditcard 💳<br><br>&nbsp;&nbsp;&nbsp;🆕 🍼 firstname 🔡 🍼 lastname 🔡 🍼 creditcard 💳 🍇🍉<br><br>&nbsp;&nbsp;&nbsp;🆕 ▶️🧜‍♀️ 🍼 firstname 🔡 🍼 creditcard 💳 🍇<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔤Mermaid🔤 ➡️ 🖍lastname<br>&nbsp;&nbsp;&nbsp;🍉<br>🍉<br><br>We can use the 🧜‍♀️ initializer like this:<br>🆕👩‍💼▶️🧜‍♀️ 🔤Ariel🔤 credit_card❗️ ➡️ ariel
+Let us define a method for 👩‍💼 to print an invoice:  | ❗️ 💸 total 💯 🍇<br>&nbsp;&nbsp;&nbsp;😀 🔤Invoice🔤❗️<br>&nbsp;&nbsp;&nbsp;😀 🔤To 🧲firstname🧲 🧲lastname🧲🔤 ❗️<br>&nbsp;&nbsp;&nbsp;😀 🔤Total: 🧲🔡total 2❗️🧲🔤❗️<br>&nbsp;&nbsp;&nbsp;😀 🔤Your credit card will be charged. 🔤❗️<br>🍉
+❌🔤  | 🔤
+❌🔤  | 🔤
+❌🔤  | 🔤
+❌🔤  | 🔤
+❌🔤  | 🔤
+❌🔤  | 🔤
+❌🔤  | 🔤
 ❌🔤  | 🔤
