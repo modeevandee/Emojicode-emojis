@@ -77,5 +77,10 @@ Emoji  | Output
 🔂 For In  | 🍿🔤tree🔤 🔤bee🔤 🔤lee🔤 🔤me🔤🍆 ➡️ list<br><br>🔂 name list 🍇<br>&nbsp;&nbsp;&nbsp;😀 name❗️<br>🍉
 ⏩ Ranges  | 🔂 i 🆕⏩ 0 10 2❗️ 🍇<br>&nbsp;&nbsp;&nbsp;😀 🔡 i❗️❗️  💭 Prints numbers 0 through 8 (including).<br>🍉<br><br>🔂 i 🆕⏩ 0 10❗️ 🍇<br>&nbsp;&nbsp;&nbsp;😀 🔡 i❗️❗️  💭 Prints numbers 0 through 9 (including).<br>🍉<br><br>🔂 i 🆕⏩ 10 0❗️ 🍇<br>&nbsp;&nbsp;&nbsp;😀 🔡 i❗️❗️  💭 Prints numbers 10 through 1 (including).<br>🍉<br><br>🔂 i 🆕⏩ 100 -10 -10❗️ 🍇<br>&nbsp;&nbsp;&nbsp;😀 🔡 i❗️❗️  💭 Prints numbers 100 through 0 (including).<br>🍉
 🔁 Repeat While  | 🔁 👍 🍇<br>&nbsp;&nbsp;&nbsp;😀 🔤It goes on and on and on🔤❗️<br>🍉
-🎍🐌 🎍🏎 Branch Speed  | IDK (Dont use) https://www.emojicode.org/docs/reference/controlflow.html
-❌🧲  | 🧲
+🎍🐌 🎍🏎 Branch Speed  | (IDK) https://www.emojicode.org/docs/reference/controlflow.html
+
+# Classes and Value Types
+Emoji  | Output
+------------- | -------------
+❌❌  | ❌
+❌🔤  | 🔤
